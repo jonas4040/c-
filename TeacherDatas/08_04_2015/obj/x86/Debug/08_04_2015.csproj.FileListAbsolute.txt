@@ -1,0 +1,7 @@
+E:\Gate_1\Gate_2\T.e.I\2º Ano\Técnicas de Orientção a Objetos (TOB)\08_04_2015_EXE1\08_04_2015\bin\Debug\08_04_2015.exe
+E:\Gate_1\Gate_2\T.e.I\2º Ano\Técnicas de Orientção a Objetos (TOB)\08_04_2015_EXE1\08_04_2015\bin\Debug\08_04_2015.pdb
+E:\Gate_1\Gate_2\T.e.I\2º Ano\Técnicas de Orientção a Objetos (TOB)\08_04_2015_EXE1\08_04_2015\obj\x86\Debug\_08_04_2015.Form1.resources
+E:\Gate_1\Gate_2\T.e.I\2º Ano\Técnicas de Orientção a Objetos (TOB)\08_04_2015_EXE1\08_04_2015\obj\x86\Debug\_08_04_2015.Properties.Resources.resources
+E:\Gate_1\Gate_2\T.e.I\2º Ano\Técnicas de Orientção a Objetos (TOB)\08_04_2015_EXE1\08_04_2015\obj\x86\Debug\08_04_2015.csproj.GenerateResource.Cache
+E:\Gate_1\Gate_2\T.e.I\2º Ano\Técnicas de Orientção a Objetos (TOB)\08_04_2015_EXE1\08_04_2015\obj\x86\Debug\08_04_2015.exe
+E:\Gate_1\Gate_2\T.e.I\2º Ano\Técnicas de Orientção a Objetos (TOB)\08_04_2015_EXE1\08_04_2015\obj\x86\Debug\08_04_2015.pdb

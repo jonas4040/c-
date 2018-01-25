@@ -1,0 +1,17 @@
+G:\Gate_1\Gate_2\T.e.I\3º Ano\Desenvolvimento de Softwares (DW)\bdCapacitacao2\bdCapacitacao\obj\x86\Debug\bdCapacitacao.exe
+G:\Gate_1\Gate_2\T.e.I\3º Ano\Desenvolvimento de Softwares (DW)\bdCapacitacao2\bdCapacitacao\obj\x86\Debug\bdCapacitacao.pdb
+G:\Gate_1\Gate_2\T.e.I\3º Ano\Desenvolvimento de Softwares (DW)\bdCapacitacao2\bdCapacitacao\bin\Debug\bdCapacitacao.exe
+G:\Gate_1\Gate_2\T.e.I\3º Ano\Desenvolvimento de Softwares (DW)\bdCapacitacao2\bdCapacitacao\bin\Debug\bdCapacitacao.pdb
+G:\Gate_1\Gate_2\T.e.I\3º Ano\Desenvolvimento de Softwares (DW)\bdCapacitacao2\bdCapacitacao\obj\x86\Debug\bdCapacitacao2.csprojResolveAssemblyReference.cache
+G:\Gate_1\Gate_2\T.e.I\3º Ano\Desenvolvimento de Softwares (DW)\bdCapacitacao2\bdCapacitacao\obj\x86\Debug\bdCapacitacao.form_Principal.resources
+G:\Gate_1\Gate_2\T.e.I\3º Ano\Desenvolvimento de Softwares (DW)\bdCapacitacao2\bdCapacitacao\obj\x86\Debug\bdCapacitacao.form_Lista.resources
+G:\Gate_1\Gate_2\T.e.I\3º Ano\Desenvolvimento de Softwares (DW)\bdCapacitacao2\bdCapacitacao\obj\x86\Debug\bdCapacitacao.Properties.Resources.resources
+G:\Gate_1\Gate_2\T.e.I\3º Ano\Desenvolvimento de Softwares (DW)\bdCapacitacao2\bdCapacitacao\obj\x86\Debug\bdCapacitacao2.csproj.GenerateResource.Cache
+H:\Gate_1\Gate_2\T.e.I\3º Ano\Desenvolvimento de Softwares (DW)\bdCapacitacao2\bdCapacitacao\obj\x86\Debug\bdCapacitacao.exe
+H:\Gate_1\Gate_2\T.e.I\3º Ano\Desenvolvimento de Softwares (DW)\bdCapacitacao2\bdCapacitacao\obj\x86\Debug\bdCapacitacao.pdb
+E:\Gate_1\Gate_2\T.e.I\3º Ano\Desenvolvimento de Softwares (DW)\bdCapacitacao2\bdCapacitacao\obj\x86\Debug\bdCapacitacao.exe
+E:\Gate_1\Gate_2\T.e.I\3º Ano\Desenvolvimento de Softwares (DW)\bdCapacitacao2\bdCapacitacao\obj\x86\Debug\bdCapacitacao.pdb
+I:\Gate_1\Gate_2\T.e.I\3º Ano\Desenvolvimento de Softwares (DW)\2º Bimestre\bdCapacitacao2\bdCapacitacao\obj\x86\Debug\bdCapacitacao.exe
+I:\Gate_1\Gate_2\T.e.I\3º Ano\Desenvolvimento de Softwares (DW)\2º Bimestre\bdCapacitacao2\bdCapacitacao\obj\x86\Debug\bdCapacitacao.pdb
+D:\Gate_1\Gate_2\T.e.I\3º Ano\Desenvolvimento de Softwares (DW)\2º Bimestre\bdCapacitacao2\bdCapacitacao\obj\x86\Debug\bdCapacitacao.exe
+D:\Gate_1\Gate_2\T.e.I\3º Ano\Desenvolvimento de Softwares (DW)\2º Bimestre\bdCapacitacao2\bdCapacitacao\obj\x86\Debug\bdCapacitacao.pdb
