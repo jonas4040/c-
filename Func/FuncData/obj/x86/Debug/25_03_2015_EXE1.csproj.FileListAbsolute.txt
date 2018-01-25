@@ -1,0 +1,16 @@
+E:\Gate_1\Gate_2\T.e.I\2º Ano\Técnicas de Orientção a Objetos (TOB)\25_03_2015_EXE1\25_03_2015_EXE1\bin\Debug\25_03_2015_EXE1.exe
+E:\Gate_1\Gate_2\T.e.I\2º Ano\Técnicas de Orientção a Objetos (TOB)\25_03_2015_EXE1\25_03_2015_EXE1\bin\Debug\25_03_2015_EXE1.pdb
+E:\Gate_1\Gate_2\T.e.I\2º Ano\Técnicas de Orientção a Objetos (TOB)\25_03_2015_EXE1\25_03_2015_EXE1\obj\x86\Debug\_25_03_2015_EXE1.Form1.resources
+E:\Gate_1\Gate_2\T.e.I\2º Ano\Técnicas de Orientção a Objetos (TOB)\25_03_2015_EXE1\25_03_2015_EXE1\obj\x86\Debug\_25_03_2015_EXE1.Properties.Resources.resources
+E:\Gate_1\Gate_2\T.e.I\2º Ano\Técnicas de Orientção a Objetos (TOB)\25_03_2015_EXE1\25_03_2015_EXE1\obj\x86\Debug\25_03_2015_EXE1.csproj.GenerateResource.Cache
+E:\Gate_1\Gate_2\T.e.I\2º Ano\Técnicas de Orientção a Objetos (TOB)\25_03_2015_EXE1\25_03_2015_EXE1\obj\x86\Debug\25_03_2015_EXE1.exe
+E:\Gate_1\Gate_2\T.e.I\2º Ano\Técnicas de Orientção a Objetos (TOB)\25_03_2015_EXE1\25_03_2015_EXE1\obj\x86\Debug\25_03_2015_EXE1.pdb
+E:\Gate_1\Gate_2\T.e.I\2º Ano\Técnicas de Orientção a Objetos (TOB)\25_03_2015_EXE1\25_03_2015_EXE1\obj\x86\Debug\25_03_2015_EXE1.csprojResolveAssemblyReference.cache
+I:\etevav\2ºano\Tecnico\TOB\25_03_2015_EXE1\25_03_2015_EXE1\obj\x86\Debug\25_03_2015_EXE1.exe
+I:\etevav\2ºano\Tecnico\TOB\25_03_2015_EXE1\25_03_2015_EXE1\obj\x86\Debug\25_03_2015_EXE1.pdb
+I:\etevav\2ºano\Tecnico\TOB\25_03_2015_EXE1\25_03_2015_EXE1\bin\Debug\25_03_2015_EXE1.exe
+I:\etevav\2ºano\Tecnico\TOB\25_03_2015_EXE1\25_03_2015_EXE1\bin\Debug\25_03_2015_EXE1.pdb
+I:\etevav\2ºano\Tecnico\TOB\25_03_2015_EXE1\25_03_2015_EXE1\obj\x86\Debug\25_03_2015_EXE1.csprojResolveAssemblyReference.cache
+I:\etevav\2ºano\Tecnico\TOB\25_03_2015_EXE1\25_03_2015_EXE1\obj\x86\Debug\_25_03_2015_EXE1.Form1.resources
+I:\etevav\2ºano\Tecnico\TOB\25_03_2015_EXE1\25_03_2015_EXE1\obj\x86\Debug\_25_03_2015_EXE1.Properties.Resources.resources
+I:\etevav\2ºano\Tecnico\TOB\25_03_2015_EXE1\25_03_2015_EXE1\obj\x86\Debug\25_03_2015_EXE1.csproj.GenerateResource.Cache
